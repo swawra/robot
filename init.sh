@@ -13,7 +13,7 @@ fi
 # 2. Delete the existing directory if it exists
 if [ -d "$TARGET_DIR" ]; then
     echo "Removing existing directory: $TARGET_DIR..."
-    rm -rf "$TARGET_DIR"
+    sudo rm -rf "$TARGET_DIR"
 else
     echo "Directory '$TARGET_DIR' does not exist. Proceeding to extract..."
 fi
