@@ -11,7 +11,7 @@ Copy these files to `/home/pi/robot`:
 
 then run
 
-`chmod 755 /home/pi/robot/init.sh`
+`chmod 555 /home/pi/robot/init.sh`
 
 then create a tarball for refreshing back to this point in future, make read only.
 
