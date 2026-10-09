@@ -29,7 +29,7 @@ Clarify the following details with the school well in advance:
 Ensure the school secures the following items before the event:
 
 #### Technology
-* [ ] **HDMI Capture Compatibility:** Ensure the school has laptops compatible with the HDMI capture devices. For example, Check the required website [https://nerdzap.com/view/][https://nerdzap.com/view/] and ensure it is permitted on their network.  They may prefer to use a "Camera" app instead - the main thing is it can be made full screen so the text is readable with minimal clutter in the way.
+* [ ] **HDMI Capture Compatibility:** Ensure the school has laptops compatible with the HDMI capture devices. For example, Check the required website [https://nerdzap.com/view/] and ensure it is permitted on their network.  They may prefer to use a "Camera" app instead - the main thing is it can be made full screen so the text is readable with minimal clutter in the way.
 
 #### Kit & Consumables
 * [ ] **CamJam 3 Kits:** One per group, plus a few spares.
