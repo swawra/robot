@@ -1,6 +1,6 @@
 # RoboJam – Facilitator Instructions
 
-This document outlines the standard process developed by John and the team. Please feel free to adapt these steps as you see fit to best suit your event.
+This document outlines the standard process developed by John and Simon. Please feel free to adapt these steps as you see fit to best suit your event.
 
 ---
 
