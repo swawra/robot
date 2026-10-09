@@ -125,8 +125,9 @@ While the design judging is wrapping up, construct a battle arena using desks or
 * **Pre-requisites:** Robots must be fully functional and running.
 * **Balloons:** Attach two pre-inflated balloons to the cardboard box chassis of each robot. 
   * *Restriction:* Balloons must be attached directly to the box. Extending them out on long sticks or armor-plating them with masking tape is strictly prohibited. Keep plenty of spare balloons handy to toss into the arena for extra action.
-* **Weapons:** Have volunteers use masking tape to attach 2–4 sharpened cocktail sticks to the chassis. Ensure they point horizontally or slightly upward.
+  * Once the balloons are attached, the team bring the ready robot and place it in the arena.  Instruct the pupils not to move the robots around.
 * **Safety First:** **From this point on, ONLY ADULTS may touch the robots**.
+* **Weapons:** Have volunteers use masking tape to attach 2–4 sharpened cocktail sticks to the chassis. Ensure they point horizontally or slightly upward.
 * **The Match:** 
   1. Whip the crowd into a frenzy: Ask the kids if they had fun and get them to make some noise.
   2. The match lasts for **3 minutes**. Teams are allowed to swap drivers mid-match if they choose.
