@@ -14,8 +14,7 @@ This document outlines the standard process developed by John and the team. Plea
   * **No Meetings:** Do not book any meetings; be present for the full day.
   * **Device Policy:** DO NOT take out your mobile phone while in the classroom with the children.
   * **Photo Policy:** DO NOT take any photos. The school can take photos and share them later if mutually agreed.
-  * **Bring from Home:** Bring some sandpaper to sharpen kebab sticks.
-
+  
 ### School Liaison Checklist
 Clarify the following details with the school well in advance:
 * [ ] **Timings:** Arrival time, end of school day, break times, and lunch times.
@@ -30,7 +29,7 @@ Clarify the following details with the school well in advance:
 Ensure the school secures the following items before the event:
 
 #### Technology
-* [ ] **HDMI Capture Compatibility:** Ensure the school has laptops compatible with the HDMI capture devices. Check the required website and ensure it is permitted on their network.
+* [ ] **HDMI Capture Compatibility:** Ensure the school has laptops compatible with the HDMI capture devices. For example, Check the required website [https://nerdzap.com/view/][https://nerdzap.com/view/] and ensure it is permitted on their network.  They may prefer to use a "Camera" app instead - the main thing is it can be made full screen so the text is readable with minimal clutter in the way.
 
 #### Kit & Consumables
 * [ ] **CamJam 3 Kits:** One per group, plus a few spares.
@@ -44,6 +43,8 @@ Ensure the school secures the following items before the event:
 * [ ] **Craft Items:** Coloured card, sticky tape, felt pens, pipe cleaners, and glittery items.
 * [ ] **Lolly Sticks:** A few packs.
 * [ ] **Scissors**.
+
+**Bring from Home:** Along side all the kit needed, bring some sandpaper to sharpen kebab sticks.
 
 ---
 
